@@ -1,12 +1,12 @@
 {
-    "name": "tiny-light",
-    "displayName": "Tiny Light",
+    "name": "xeon-light",
+    "displayName": "Xeon Light",
     "description": "BEST FOR YOUR EYES!",
-    "version": "0.7.2",
-    "publisher": "luqimin",
+    "version": "0.0.1",
+    "publisher": "zhiqiangx",
     "repository": {
         "type": "git",
-        "url": "https://github.com/luqimin/tinylight-vscode"
+        "url": "https://github.com/zhiqiangx/tinylight-vscode"
     },
     "engines": {
         "vscode": "^1.0.0"
@@ -18,14 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tiny Light",
+                "label": "Xeon Light",
                 "uiTheme": "vs",
                 "path": "./themes/tiny.json"
             }
         ]
     },
     "keywords": [
-        "tiny light",
+        "xeon light",
         "solarized",
         "health",
         "h5builder",
