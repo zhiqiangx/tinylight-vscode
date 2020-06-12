@@ -1,4 +1,4 @@
-# Tiny Light
+# Xeon Light
 
 ## Notice
 
@@ -8,10 +8,7 @@
 
 ## ScreenShot
 
-![ScreenShot](https://i0.letvimg.com/lc04_fe/201705/11/14/03/s1.png)
+![ScreenShot](https://upload-images.jianshu.io/upload_images/4459456-78aafaf93c3ab5d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### For more information
-
-* [tinyRen](http://tiny.ren)
 
 **Enjoy!**
